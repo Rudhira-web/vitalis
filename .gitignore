@@ -1,2 +1,7 @@
 node_modules
 dist
+
+.claude
+Claude outputs
+public/doctors/*.png
+public/doctors/*.jpg
